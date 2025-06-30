@@ -1,4 +1,4 @@
-Name: Chafekar Saeeb Salauddin \n
-PRN: 24030331245005 \n
-Branch: B.Tech Computer Engineering \n
-Batch: 'A' \n
+## Name: Chafekar Saeeb Salauddin
+## PRN: 24030331245005
+## Branch: B.Tech Computer Engineering
+## Batch: 'A'
